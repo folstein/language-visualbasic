@@ -1,0 +1,22 @@
+{
+  "name": "language-visualbasic",
+  "version": "1.0.0",
+  "description": "Visual Basic syntax imported from https://github.com/textmate/asp.vb.net.tmbundle.git",
+  "keywords": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/folstein/language-visualbasic"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "readme": "Visual Basic Syntax Highlighting for Atom\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/folstein/language-visualbasic/issues"
+  },
+  "homepage": "https://github.com/folstein/language-visualbasic",
+}
